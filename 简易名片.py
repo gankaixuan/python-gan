@@ -1,0 +1,5 @@
+qq=input("qq:")
+name=input("姓名：")
+num=input("手机号：")
+school=input("学校：")
+print("名字："+name+"\n"+"qq:"+qq+"\n"+"手机号："+num+"\n"+"学校："+school)
