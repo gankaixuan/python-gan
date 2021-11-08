@@ -1,3 +1,3 @@
 a=['one','two','three']
-print(a[0:3])
-print(a[-1:-4:-1])
+print(a[:])
+print(a[:-4:-1])
